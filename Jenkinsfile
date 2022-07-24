@@ -1,1 +1,1 @@
-runPipeline()
+pipeline()
